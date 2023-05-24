@@ -2,6 +2,11 @@
 
 Boilerplate code for a simple WebApp
 
+
+hej där test
+
+
+
 ## Building
 
 - `npm run create-addon` creates an addon with the name configured in the setup task
